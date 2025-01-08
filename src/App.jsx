@@ -1,9 +1,7 @@
-import React from 'react'
+import React, { useState } from "react";
 
 const App = () => {
-  return (
-    <div>App</div>
-  )
-}
+  return <div>Home</div>;
+};
 
-export default App
+export default App;
